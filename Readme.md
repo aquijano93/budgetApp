@@ -5,19 +5,16 @@ This is a web application built with React using VITE template and styled with r
 Clone the repository:
 
 ```sh
-Copy code
 git clone https://github.com/username/budget-tracker.git
 Install dependencies:
 ```
 
 ```sh
-Copy code
 npm install
 Start the development server:
 ```
 
 ```sh
-Copy code
 npm run dev
 The app will be served at http://localhost:3000.
 ```
